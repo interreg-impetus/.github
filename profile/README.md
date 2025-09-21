@@ -16,3 +16,6 @@ This repository is created to share code with students involved in the VAWT deve
 
 
 The details can be found at [https://www.impetus.eu/](https://www.impetus.eu/)
+
+
+[![Logo](logoINTERREG_logoIMPETUS_transparent.png)](https://www.impetus.eu/)
